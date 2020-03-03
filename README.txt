@@ -80,3 +80,4 @@ Contributors
         Scott Bahling for the request of the scales in cents,
         Jacob Shapiro for his help to make FMIT working under Windows/Cygwin, Peter.
 
+[![Run on Repl.it](https://repl.it/badge/github/gillesdegottex/fmit)](https://repl.it/github/gillesdegottex/fmit)
